@@ -39,7 +39,7 @@ e giornaliere, il server verifica i replay prima di salvare i risultati:
 
 ### `03 / CONTINUE?`
 
-Prova il gioco, curiosa nel codice o segnala un bug.
+Prova il gioco o segnala un bug direttamente dal gioco.
 Il prossimo miglioramento può iniziare da un tuo feedback.
 
 **[Gioca](https://pixel-rush.it)** ·
