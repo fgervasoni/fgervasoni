@@ -2,14 +2,8 @@
 
   <img src="./banner.svg" alt="Federico Gervasoni — Player 01. Code, play, repeat. Banner pixel art ispirato a Pixel Rush." width="100%" />
 
-  <h1>Ciao, sono Federico 👾</h1>
-
-  <p>Codice, pixel e idee che diventano giocabili.</p>
-
   <p>
     <a href="https://pixel-rush.it"><strong>▶ GIOCA A PIXEL RUSH</strong></a>
-    &nbsp; · &nbsp;
-    <a href="https://github.com/fgervasoni/Pixel-Rush"><strong>⌘ ESPLORA IL CODICE</strong></a>
     &nbsp; · &nbsp;
     <a href="https://buymeacoffee.com/7mgrkmgwpvf"><strong>☕ INSERT COFFEE</strong></a>
   </p>
@@ -49,8 +43,6 @@ Prova il gioco, curiosa nel codice o segnala un bug.
 Il prossimo miglioramento può iniziare da un tuo feedback.
 
 **[Gioca](https://pixel-rush.it)** ·
-**[Repository](https://github.com/fgervasoni/Pixel-Rush)** ·
-**[Segnala un problema](https://github.com/fgervasoni/Pixel-Rush/issues)** ·
 **[Offrimi un caffè](https://buymeacoffee.com/7mgrkmgwpvf)**
 
 ---
