@@ -2,16 +2,6 @@
 
   <img src="./banner.svg" alt="Federico Gervasoni — Player 01. Code, play, repeat. Banner pixel art ispirato a Pixel Rush." width="100%" />
 
-  <p>
-    <a href="https://pixel-rush.it"><strong>▶ GIOCA A PIXEL RUSH</strong></a>
-    &nbsp; · &nbsp;
-    <a href="https://buymeacoffee.com/7mgrkmgwpvf"><strong>☕ INSERT COFFEE</strong></a>
-  </p>
-
-</div>
-
----
-
 ### `01 / SELECT PROJECT`
 
 **[Pixel Rush](https://pixel-rush.it)** è il mio laboratorio arcade: un gioco
