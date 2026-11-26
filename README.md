@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/banner.svg" alt="Federico Gervasoni — Player 01. Code, play, repeat. Banner pixel art ispirato a Pixel Rush." width="100%" />
+  <img src="./banner.svg" alt="Federico Gervasoni — Player 01. Code, play, repeat. Banner pixel art ispirato a Pixel Rush." width="100%" />
 
   <h1>Ciao, sono Federico 👾</h1>
 
